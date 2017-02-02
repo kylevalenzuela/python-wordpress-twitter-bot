@@ -1,7 +1,3 @@
-### Finding a Simpler Solution
-
-Running [Baking Brew][1] has been quite the learning experience. However, it is also daunting. On top of maintenance and dev ops, I also provide the photography, design, and do all the marketing on my own. I wanted a simple solution that allowed me to automate links to my recipes on twitter. Tools like [Buffer][2] are robust, but all I wanted was a tool that looked at my recipes and post a random link and an image. So I decided to build it.
-
 ### Accessing Custom Post Types
 
 If you have Jetpack installed on your Wordpress site, you can activated the REST API. This opens up a whole new world for WordPress. It gives you the ability to make WordPress headless. Meaning, you can completely separate your back-end and your front-end and use one of those Javascript frameworks all the cool kids are using to build out your entire front end.
